@@ -27,7 +27,3 @@ public class VOServiceTest {
 	}//main
 } //class
 
-
-//ㅁㄴㅇㄴㅁㅇㄴㅁㅍㄹㄴㅁㅎㅍㅁㅁㅍㅊ
-//
-//45864645611
